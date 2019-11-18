@@ -12,8 +12,11 @@
 
 ## CI/CD
 
+* [CI/CD Tools Comparison: Jenkins, GitLab CI, Buildbot, Drone, and Concourse](https://www.digitalocean.com/community/tutorials/ci-cd-tools-comparison-jenkins-gitlab-ci-buildbot-drone-and-concourse)
 * [Gitlab CI/CD Deep Dive Demo](https://about.gitlab.com/handbook/marketing/product-marketing/demo/cicd-deep/)
 * [GitLab CI/CD Pipeline Configuration Reference](https://docs.gitlab.com/ee/ci/yaml/)
+* [Gitlab CI/CD Building Docker images](https://docs.gitlab.com/ee/ci/docker/using_docker_build.html)
+* [Gitlab CI/CD Cache dependencies](https://docs.gitlab.com/ee/ci/caching/index.html)
 
 
 ## C Programming
@@ -23,8 +26,8 @@
 * [Low Level Operators and Bit Fields](http://www.cs.cf.ac.uk/Dave/C/node13.html)
 * [Little and Big Endian Mystery](https://www.geeksforgeeks.org/little-and-big-endian-mystery/)
 * [Seventeen steps to safer C code](https://www.embedded.com/design/programming-languages-and-tools/4215552/Seventeen-steps-to-safer-C-code)
-* [Does GCC's \_\_attribute__((\_\_packed__)) retain the original ordering?](http://stackoverflow.com/questions/1756811/does-gccs-attribute-packed)
-* [Is gcc's \_\_attribute__((\_\_packed__)) / #pragma pack unsafe?](http://stackoverflow.com/questions/8568432/is-gccs-attribute-packed-pragma-pack-unsafe)
+* [Does GCC's __attribute__((__packed__)) retain the original ordering?](http://stackoverflow.com/questions/1756811/does-gccs-attribute-packed)
+* [Is gcc's __attribute__((__packed__)) / #pragma pack unsafe?](http://stackoverflow.com/questions/8568432/is-gccs-attribute-packed-pragma-pack-unsafe)
 * [Reentrancy](http://www.ganssle.com/articles/areentra.htm)
 * [Table-driven State Machine using function pointers in C](https://kjarvel.wordpress.com/2011/10/26/table-driven-state-machine-using-function-pointers-in-c/)
 * [Implementing Efficient State Machines](http://www.conman.org/projects/essays/states.html)
@@ -35,6 +38,7 @@
 
 ## Embedded Development (microcontrollers, cpu, rtos, ...)
 
+* [Embedded Systems Wikibook](https://en.wikibooks.org/wiki/Embedded_Systems)
 * [MCU Programming: Basics](https://www.renesas.com/en-eu/support/technical-resources/engineer-school/mcu-programming-peripherals-01-gpio.html)
 * [Introduction to Microcontrollers - Beginnings](https://www.embeddedrelated.com/showarticle/453.php)
 * [8 pillars of embedded software](https://www.edn.com/electronics-blogs/embedded-basics/4442167/8-pillars-of-embedded-software)
