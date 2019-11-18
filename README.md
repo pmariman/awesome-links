@@ -125,7 +125,7 @@
 * [Understanding a Real-Time System by Steven Rostedt](https://www.youtube.com/watch?v=wAX3jOHHhn0)
 
 
-## Linux IoT
+## IoT
 
 * [Modern deployment for Embedded Linux and IoT](https://media.ccc.de/v/ASG2017-112-modern_deployment_for_embedded_linux_and_iot)
 * [WolfSSL Manual - Chapter 11:  SSL Tutorial](https://www.wolfssl.com/docs/wolfssl-manual/ch11/)
@@ -135,6 +135,10 @@
 * [A Quick Guide to Understanding IoT Application Messaging Protocols](https://www.einfochips.com/blog/a-quick-guide-to-understanding-iot-application-messaging-protocols/)
 * [MQTT Essentials](https://www.hivemq.com/mqtt-essentials/)
 * [NATS: A Central Nervous System for IoT Messaging](https://nats.io/blog/openiot/)
+* [A Look at Nanomsg and Scalability Protocols (Why ZeroMQ Shouldn’t Be Your First Choice)](https://bravenewgeek.com/a-look-at-nanomsg-and-scalability-protocols/)
+* [ZeroMQ: Diving into the Wire](https://www.codeproject.com/Articles/863889/ZeroMQ-Diving-Into-The-Wire)
+* [Choose the Right Communication Pattern for Your IoT Project](https://software.intel.com/en-us/articles/communication-patterns-for-the-internet-of-things)
+* [Strengths and Weaknesses of IoT Communication Patterns](https://dzone.com/articles/strengths-and-weaknesses-of-iot-communication-patterns)
 
 
 ## Embedded Hardware
