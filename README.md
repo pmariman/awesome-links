@@ -19,12 +19,21 @@
 * [Gitlab CI/CD Cache dependencies](https://docs.gitlab.com/ee/ci/caching/index.html)
 
 
+## Software Engineering, Architecture, Concepts, ...
+
+* [Concurrency vs Event Loop vs Event Loop + Concurrency](https://medium.com/@tigranbs/concurrency-vs-event-loop-vs-event-loop-concurrency-eb542ad4067b)
+* [10 Typical Mistakes in Specs](https://www.yegor256.com/2015/11/10/ten-mistakes-in-specs.html)
+* [Designing for safety and security in a connected system](https://www.embedded.com/architectural-considerations-for-enabling-industrial-iot-devices/)
+* [Robert C Martin - Clean Architecture and Design](https://www.youtube.com/watch?v=Nsjsiz2A9mg)
+* [Rob Pike - 'Concurrency Is Not Parallelism'](https://www.youtube.com/watch?v=cN_DpYBzKso)
+* [Understanding a Real-Time System by Steven Rostedt](https://www.youtube.com/watch?v=wAX3jOHHhn0)
+
+
 ## C Programming
 
 * [C Keywords](http://tigcc.ticalc.org/doc/keywords.html)
 * [const and static keywords](http://www.xs-labs.com/en/blog/2011/07/29/c-const-static-keywords/)
 * [Low Level Operators and Bit Fields](http://www.cs.cf.ac.uk/Dave/C/node13.html)
-* [Little and Big Endian Mystery](https://www.geeksforgeeks.org/little-and-big-endian-mystery/)
 * [Seventeen steps to safer C code](https://www.embedded.com/design/programming-languages-and-tools/4215552/Seventeen-steps-to-safer-C-code)
 * [Does GCC's __attribute__((__packed__)) retain the original ordering?](http://stackoverflow.com/questions/1756811/does-gccs-attribute-packed)
 * [Is gcc's __attribute__((__packed__)) / #pragma pack unsafe?](http://stackoverflow.com/questions/8568432/is-gccs-attribute-packed-pragma-pack-unsafe)
@@ -38,7 +47,9 @@
 
 ## Embedded Development (microcontrollers, cpu, rtos, ...)
 
+* [So You Want To Be An Embedded Systems Developer](http://flinkandblink.blogspot.com/2018/09/so-you-want-to-be-embedded-systems.html?m=1)
 * [Embedded Systems Wikibook](https://en.wikibooks.org/wiki/Embedded_Systems)
+* [Free online course on Embedded Systems](http://www.eeherald.com/section/design-guide/esmod.html)
 * [MCU Programming: Basics](https://www.renesas.com/en-eu/support/technical-resources/engineer-school/mcu-programming-peripherals-01-gpio.html)
 * [Introduction to Microcontrollers - Beginnings](https://www.embeddedrelated.com/showarticle/453.php)
 * [8 pillars of embedded software](https://www.edn.com/electronics-blogs/embedded-basics/4442167/8-pillars-of-embedded-software)
@@ -48,20 +59,35 @@
 * [Interrupts short and simple (2)](https://www.embedded.com/design/programming-languages-and-tools/4398340/Interrupts-short---simple--Variables--buffers---latencies)
 * [Interrupts short and simple (3)](https://www.embedded.com/design/programming-languages-and-tools/4398710/Interrupts-short-and-simple--Part-3---More-interrupt-handling-tips)
 * [Embedded device driver design: Interrupt handling](https://www.embedded.com/design/programming-languages-and-tools/4420109/Embedded-device-driver-design--Interrupt-handling)
+* [Endianness](https://www.embedded.com/endianness/)
+* [Little and Big Endian Mystery](https://www.geeksforgeeks.org/little-and-big-endian-mystery/)
 * [Using pointer arrays: Part 1 - A timer driver](https://www.embedded.com/design/programming-languages-and-tools/4418931/Using-pointer-arrays--Part-1---A-timer-driver)
 * [An introduction to function pointers: Part 1](https://www.embedded.com/design/programming-languages-and-tools/4418929/An-introduction-to-function-pointers--Part-1)
+* [Build a Super Simple Tasker](https://www.embedded.com/build-a-super-simple-tasker/)
 * [RTOS Revealed](https://www.embedded.com/collections/4443063/RTOS-Revealed)
+* [Real-time Systems](http://www.rtos.be/real-time/)
 * [Multitasking on an AVR](https://xivilization.net/~marek/binaries/multitasking.pdf)
 * [Mutexes and Semaphores Demystified](https://barrgroup.com/Embedded-Systems/How-To/RTOS-Mutex-Semaphore)
+* [Use Threads Correctly = Isolation + Asynchronous Messages](https://www.drdobbs.com/parallel/use-threads-correctly-isolation-asynch/215900465)
+* [Prefer Using Active Objects Instead of Naked Threads](https://www.drdobbs.com/parallel/prefer-using-active-objects-instead-of-n/225700095)
 * [How to Use C's volatile Keyword](http://www.barrgroup.com/Embedded-Systems/How-To/C-Volatile-Keyword)
 * [Volatile: The Multithreaded Programmer's Best Friend](http://www.drdobbs.com/cpp/volatile-the-multithreaded-programmers-b/184403766)
-* [Free online course on Embedded Systems](http://www.eeherald.com/section/design-guide/esmod.html)
+* [ARM Cortex-M Interrupts](https://www.youtube.com/watch?v=uFBNf7F3l60)
 * [100% Open-Source Development for the Cortex-M by Mike Anderson](https://www.youtube.com/watch?v=FEPGxU8u0oc)
 * TODO:
   * Priority inversion
   * Deadlocks
   * Race conditions
   * Preemptive and cooperative scheduling
+
+
+## IoT
+
+* [Everything You Need to Know About the Internet of Things](https://hackernoon.com/everything-you-need-to-know-about-the-internet-of-things-ce815339c9f9)
+* [Sustaining IoT growth](https://www.embedded.com/sustaining-iot-growth/)
+* [IoT Security – Cyberspeak 101](https://www.embedded.com/iot-security-cyberspeak-101/)
+* [Architectural considerations for enabling industrial IoT devices](https://www.embedded.com/architectural-considerations-for-enabling-industrial-iot-devices/)
+
 
 
 ## Linux Internals
@@ -96,6 +122,11 @@
 * [Understanding a Real-Time System](https://www.youtube.com/watch?v=wAX3jOHHhn0)
 * [Introduction to Realtime Linux](https://www.youtube.com/watch?v=BKkX9WASfpI)
 
+
+### IoT
+* [Modern deployment for Embedded Linux and IoT](https://media.ccc.de/v/ASG2017-112-modern_deployment_for_embedded_linux_and_iot)
+
+
 ### Yocto
 * [Reference Manual](https://www.yoctoproject.org/docs/current/ref-manual/ref-manual.html)
 * [Mega Manual](https://www.yoctoproject.org/docs/current/mega-manual/mega-manual.html)
@@ -122,16 +153,8 @@
 * [Better understanding Linux secondary dependencies solving with examples](http://www.kaizou.org/2015/01/linux-libraries/)
 
 
-## Software Architecture & Concepts
+## Protocols & Messaging
 
-* [Robert C Martin - Clean Architecture and Design](https://www.youtube.com/watch?v=Nsjsiz2A9mg)
-* [Rob Pike - 'Concurrency Is Not Parallelism'](https://www.youtube.com/watch?v=cN_DpYBzKso)
-* [Understanding a Real-Time System by Steven Rostedt](https://www.youtube.com/watch?v=wAX3jOHHhn0)
-
-
-## IoT
-
-* [Modern deployment for Embedded Linux and IoT](https://media.ccc.de/v/ASG2017-112-modern_deployment_for_embedded_linux_and_iot)
 * [WolfSSL Manual - Chapter 11:  SSL Tutorial](https://www.wolfssl.com/docs/wolfssl-manual/ch11/)
 * [An Intro to IoT Protocols: MQTT, CoAP, HTTP & WebSockets](https://www.youtube.com/watch?v=s6ZtfLmvQMU)
 * [Comparing Messaging Techniques for the IoT - Michael E Anderson, The PTR Group, inc.](https://www.youtube.com/watch?v=6DRFAOTGdjA)
