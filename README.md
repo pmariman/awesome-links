@@ -127,6 +127,18 @@
 * [Demystifying systemd - 2015 Red Hat Summit](https://www.youtube.com/watch?v=S9YmaNuvw5U)
 
 
+## Linux Networking
+
+* [The Iptables Firewall](https://serversforhackers.com/s/the-iptables-firewall)
+* [Firewall or Packet Filtering](https://debian-handbook.info/browse/da-DK/stable/sect.firewall-packet-filtering.html)
+* [Iptables Tutorial](https://www.frozentux.net/iptables-tutorial/iptables-tutorial.html)
+* [25 Iptables Netfilter Firewall Examples For New SysAdmins](https://www.cyberciti.biz/tips/linux-iptables-examples.html)
+* [Zeroshell Linux Router](https://zeroshell.org/)
+* [VyOS: an open source linux-based os for routers and firewalls](https://vyos.io/)
+* [IPv6 for Embedded Developers used to IPv4](https://www.youtube.com/watch?v=0SqiBo62zQM)
+* [User-space networking with Snabb](https://lwn.net/Articles/713918/)
+
+
 ## Embedded Linux
 
 * [Debian for Embedded Systems: Best Practices](https://www.youtube.com/watch?v=vfo25WwklQ8)
@@ -236,6 +248,7 @@
 * [Kubernetes Playground](https://www.katacoda.com/courses/kubernetes/playground)
 * [Project Atomic](https://www.projectatomic.io/)
 * [RancherOS](https://rancher.com/rancher-os/)
+* [Traefik](https://github.com/containous/traefik)
 * [Caddy - The HTTP/2 Web Server with Automatic HTTPS](https://caddyserver.com/)
 * [An overview of Project Atomic](https://lwn.net/Articles/747576/)
 * [Containers without Docker at Red Hat](https://lwn.net/Articles/741841/)
