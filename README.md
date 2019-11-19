@@ -192,16 +192,11 @@
 * [LeMaker](http://www.lemaker.org)
 * [Khadas](https://www.khadas.com)
 * [Router board (x86 based)](https://www.pcengines.ch/apu2.htm)
-
-
-## IO Hardware
-
-* [GSM Modems](https://www.siretta.co.uk/2g-3g-4g-modems-f-104.php)
-
-
-## DIY Project
-
-* [Zerophone](https://www.crowdsupply.com/arsenijs/zerophone)
+* [IoT Gateway System](https://www.ibase.com.tw/english/ProductDetail/EmbeddedComputing/AGS102)
+* [SeedStudio NPi i.MX6ULL](https://www.cnx-software.com/2019/09/27/npi-i-mx6ull-industrial-linux-sbc/)
+* [Tiny, rugged IoT gateways](http://linuxgizmos.com/tiny-rugged-iot-gateways-offer-10-year-linux-support/)
+* [Linux powered panel PCs](http://linuxgizmos.com/linux-powered-panel-pcs-available-in-web-display-and-hmi-control-panel-models/)
+* [HPE Edgeline EL300 Converged Edge System](https://www.hpe.com/be/en/product-catalog/servers/edgeline-systems/pip.hpe-edgeline-el300-converged-edge-system.1011127891.html)
 
 
 ## Raspberry Pi
