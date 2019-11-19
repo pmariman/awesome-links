@@ -40,6 +40,14 @@
 * [Reentrancy](http://www.ganssle.com/articles/areentra.htm)
 * [Table-driven State Machine using function pointers in C](https://kjarvel.wordpress.com/2011/10/26/table-driven-state-machine-using-function-pointers-in-c/)
 * [Implementing Efficient State Machines](http://www.conman.org/projects/essays/states.html)
+* [Some obscure C features you might not know about](https://mort.coffee/home/obscure-c-features/)
+* [Making C Less Dangerous - Kees Cook, Google](https://www.youtube.com/watch?v=XfNt6MsLj0E)
+* [Memory Management Reference](https://www.memorymanagement.org/)
+* [How does the kernel implements Linked Lists?](https://kernelnewbies.org/FAQ/LinkedLists)
+* [Learn a new trick with the offsetof() macro](https://www.embedded.com/learn-a-new-trick-with-the-offsetof-macro/)
+* [The Magical container_of() Macro](https://radek.io/2012/11/10/magical-container_of-macro/)
+* [Debugging with GDB](https://betterexplained.com/articles/debugging-with-gdb/)
+* [awesome-c list](https://notabug.org/koz.ross/awesome-c)
 * TODO:
   * Definition and declaration
   * Struct forward declaration
