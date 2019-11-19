@@ -112,14 +112,27 @@
 * [Using pseudo-terminals (pty) to control interactive programs](http://rachid.koucha.free.fr/tech_corner/pty_pdip.html)
 
 
-## Debian
+## Linux System
 
-* [Debian for Embedded Systems: Best Practices](https://www.youtube.com/watch?v=vfo25WwklQ8)
-* [Debos](https://github.com/go-debos/debos)
+* [Evolution of shells in Linux](https://developer.ibm.com/tutorials/l-linux-shells/)
+* [Linux Filesystem Hierarchy](https://www.linuxtopia.org/online_books/linux_beginner_books/linux_filesystem/)
+* [Overview of RAMFS and TMPFS on Linux](https://www.thegeekstuff.com/2008/11/overview-of-ramfs-and-tmpfs-on-linux/)
+* [Linux From Scratch (LFS)](http://www.linuxfromscratch.org/lfs/view/development/index.html)
+* [LFS: Overview of Device and Module Handling](http://www.linuxfromscratch.org/lfs/view/development/chapter07/udev.html)
+* [Running an X server inside a Docker container](https://joshh.info/2016/xserver-inside-docker-container/)
+* [Cgroups, namespaces, and beyond: what are containers made from?](https://www.youtube.com/watch?v=sK5i-N34im8&feature=youtu.be)
+* [Systemd Essentials: Working with Services, Units, and the Journal](https://www.digitalocean.com/community/tutorials/systemd-essentials-working-with-services-units-and-the-journal)
+* [systemd for Administrators](http://0pointer.de/blog/projects/systemd-for-admins-1.html)
+* [Understanding Systemd](https://n0where.net/understanding-systemd)
+* [RedHat: Managing Services With systemd](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/system_administrators_guide/chap-managing_services_with_systemd)
+* [Demystifying systemd - 2015 Red Hat Summit](https://www.youtube.com/watch?v=S9YmaNuvw5U)
+* [Routing select traffic through a VPN using a systemd container](https://www.youtube.com/watch?v=7Obl8_dozh0)
 
 
 ## Embedded Linux
 
+* [Debian for Embedded Systems: Best Practices](https://www.youtube.com/watch?v=vfo25WwklQ8)
+* [Debos](https://github.com/go-debos/debos)
 * [Debian ArmHardFloatPort](https://wiki.debian.org/ArmHardFloatPort)
 * [Custom Embedded Linux Distributions](http://www.linuxjournal.com/content/custom-embedded-linux-distributions)
 * [Cross-Bootstrap Fedora](https://dvdhrm.github.io/2018/01/09/cross-bootstrap-fedora/)
