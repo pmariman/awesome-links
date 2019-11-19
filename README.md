@@ -48,6 +48,7 @@
 * [The Magical container_of() Macro](https://radek.io/2012/11/10/magical-container_of-macro/)
 * [Debugging with GDB](https://betterexplained.com/articles/debugging-with-gdb/)
 * [awesome-c list](https://notabug.org/koz.ross/awesome-c)
+* [C Language Style for Scalability](https://rfc.zeromq.org/spec:21/CLASS/)
 * TODO:
   * Definition and declaration
   * Struct forward declaration
