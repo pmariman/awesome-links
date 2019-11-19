@@ -120,13 +120,11 @@
 * [Linux From Scratch (LFS)](http://www.linuxfromscratch.org/lfs/view/development/index.html)
 * [LFS: Overview of Device and Module Handling](http://www.linuxfromscratch.org/lfs/view/development/chapter07/udev.html)
 * [Running an X server inside a Docker container](https://joshh.info/2016/xserver-inside-docker-container/)
-* [Cgroups, namespaces, and beyond: what are containers made from?](https://www.youtube.com/watch?v=sK5i-N34im8&feature=youtu.be)
 * [Systemd Essentials: Working with Services, Units, and the Journal](https://www.digitalocean.com/community/tutorials/systemd-essentials-working-with-services-units-and-the-journal)
 * [systemd for Administrators](http://0pointer.de/blog/projects/systemd-for-admins-1.html)
 * [Understanding Systemd](https://n0where.net/understanding-systemd)
 * [RedHat: Managing Services With systemd](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/system_administrators_guide/chap-managing_services_with_systemd)
 * [Demystifying systemd - 2015 Red Hat Summit](https://www.youtube.com/watch?v=S9YmaNuvw5U)
-* [Routing select traffic through a VPN using a systemd container](https://www.youtube.com/watch?v=7Obl8_dozh0)
 
 
 ## Embedded Linux
@@ -147,6 +145,8 @@
 
 ### IoT
 * [Modern deployment for Embedded Linux and IoT](https://media.ccc.de/v/ASG2017-112-modern_deployment_for_embedded_linux_and_iot)
+* [Choose the Right Communication Pattern for Your IoT Project](https://software.intel.com/en-us/articles/communication-patterns-for-the-internet-of-things)
+* [Strengths and Weaknesses of IoT Communication Patterns](https://dzone.com/articles/strengths-and-weaknesses-of-iot-communication-patterns)
 
 
 ### Yocto
@@ -175,21 +175,6 @@
 * [Better understanding Linux secondary dependencies solving with examples](http://www.kaizou.org/2015/01/linux-libraries/)
 
 
-## Protocols & Messaging
-
-* [WolfSSL Manual - Chapter 11:  SSL Tutorial](https://www.wolfssl.com/docs/wolfssl-manual/ch11/)
-* [An Intro to IoT Protocols: MQTT, CoAP, HTTP & WebSockets](https://www.youtube.com/watch?v=s6ZtfLmvQMU)
-* [Comparing Messaging Techniques for the IoT - Michael E Anderson, The PTR Group, inc.](https://www.youtube.com/watch?v=6DRFAOTGdjA)
-* [Mighty Messaging Patterns](https://www.youtube.com/watch?v=rWz8OoVuDls)
-* [A Quick Guide to Understanding IoT Application Messaging Protocols](https://www.einfochips.com/blog/a-quick-guide-to-understanding-iot-application-messaging-protocols/)
-* [MQTT Essentials](https://www.hivemq.com/mqtt-essentials/)
-* [NATS: A Central Nervous System for IoT Messaging](https://nats.io/blog/openiot/)
-* [A Look at Nanomsg and Scalability Protocols (Why ZeroMQ Shouldn’t Be Your First Choice)](https://bravenewgeek.com/a-look-at-nanomsg-and-scalability-protocols/)
-* [ZeroMQ: Diving into the Wire](https://www.codeproject.com/Articles/863889/ZeroMQ-Diving-Into-The-Wire)
-* [Choose the Right Communication Pattern for Your IoT Project](https://software.intel.com/en-us/articles/communication-patterns-for-the-internet-of-things)
-* [Strengths and Weaknesses of IoT Communication Patterns](https://dzone.com/articles/strengths-and-weaknesses-of-iot-communication-patterns)
-
-
 ## Embedded Hardware
 
 * [LeMaker](http://www.lemaker.org)
@@ -213,10 +198,15 @@
 * [Understanding the Raspberry Pi Boot Process](http://wiki.beyondlogic.org/index.php?title=Understanding_RaspberryPi_Boot_Process)
 * [How does Raspberry Pi's boot loader work?](https://stackoverflow.com/questions/16317623/how-does-raspberry-pis-boot-loader-work)
 
-## LXC
 
-* [Hypervisor](https://en.wikipedia.org/wiki/Hypervisor)
-* [Debian Virtualization: LXC Application Containers](https://l3net.wordpress.com/2013/08/10/debian-virtualization-lxc-application-containers/)
+---
+
+
+## Networking
+
+* [Routing select traffic through a VPN using a systemd container](https://www.youtube.com/watch?v=7Obl8_dozh0)
+* [Let's Encrypt: A Free, Automated, and Open Certificate Authority by Josh Aas](https://www.youtube.com/watch?feature=youtu.be&v=ksqTu7TX83g&app=desktop)
+* [Public URLs for exposing your local web server](https://ngrok.com/)
 
 
 ## Nginx
@@ -235,9 +225,10 @@
 * [Building a Bank with Go](https://www.youtube.com/watch?v=y2j_TB3NsRc)
 
 
-## Cloud
+## Cloud & Containers
 
 * [CNCF](https://www.cncf.io/)
+* [CNCF Landscape](https://github.com/cncf/landscape)
 * [Building Better Containers: A Survey of Container Build Tools](https://www.youtube.com/watch?v=5D_SqLv92V8)
 * [Monitoring, the Prometheus Way](https://www.youtube.com/watch?v=PDxcEzu62jk)
 * [End-to-end monitoring with the Prometheus Operator](https://www.youtube.com/watch?v=-cw_LS4C2Ew)
@@ -250,6 +241,30 @@
 * [Containers without Docker at Red Hat](https://lwn.net/Articles/741841/)
 * [DigitalRebar Provision deploy Docker's LinuxKit Kubernetes](https://www.youtube.com/watch?v=kITojfeYaPQ)
 * [Harbor](https://goharbor.io)
+* [Docker Data Containers](https://www.freecodecamp.org/news/docker-data-containers/)
+* [Day in the Life: Docker Networking](https://www.youtube.com/watch?v=2vcLgcH_hDI)
+* [Cgroups, namespaces, and beyond: what are containers made from?](https://www.youtube.com/watch?v=sK5i-N34im8&feature=youtu.be)
+* [Podman](https://podman.io/)
+* [How Linux containers have evolved](https://opensource.com/article/17/7/how-linux-containers-evolved)
+* [Buildah](https://github.com/containers/buildah)
+
+
+## Protocols & Messaging
+
+* [WolfSSL Manual - Chapter 11:  SSL Tutorial](https://www.wolfssl.com/docs/wolfssl-manual/ch11/)
+* [An Intro to IoT Protocols: MQTT, CoAP, HTTP & WebSockets](https://www.youtube.com/watch?v=s6ZtfLmvQMU)
+* [Comparing Messaging Techniques for the IoT - Michael E Anderson, The PTR Group, inc.](https://www.youtube.com/watch?v=6DRFAOTGdjA)
+* [Mighty Messaging Patterns](https://www.youtube.com/watch?v=rWz8OoVuDls)
+* [A Quick Guide to Understanding IoT Application Messaging Protocols](https://www.einfochips.com/blog/a-quick-guide-to-understanding-iot-application-messaging-protocols/)
+* [MQTT Essentials](https://www.hivemq.com/mqtt-essentials/)
+* [NATS: A Central Nervous System for IoT Messaging](https://nats.io/blog/openiot/)
+* [Introducing Liftbridge: Lightweight, Fault-Tolerant Message Streams](https://bravenewgeek.com/introducing-liftbridge-lightweight-fault-tolerant-message-streams/)
+* [A Look at Nanomsg and Scalability Protocols (Why ZeroMQ Shouldn’t Be Your First Choice)](https://bravenewgeek.com/a-look-at-nanomsg-and-scalability-protocols/)
+* [ZeroMQ: Diving into the Wire](https://www.codeproject.com/Articles/863889/ZeroMQ-Diving-Into-The-Wire)
+* [gRPC and Go: Developing Efficient and Type-Safe Services - Clinton Kitson](https://www.youtube.com/watch?v=J-NTfvYL_OE&list=PLbzoR-pLrL6oNLRbC03ziuX0JWzQFjnth&index=10)
+
+
+---
 
 
 ## TED talks
