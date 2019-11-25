@@ -21,10 +21,12 @@
 
 ## Software Engineering, Architecture, Concepts, ...
 
+* [ITT 2016 - Kevlin Henney - Seven Ineffective Coding Habits of Many Programmers](https://www.youtube.com/watch?v=ZsHMHukIlJY)
 * [Concurrency vs Event Loop vs Event Loop + Concurrency](https://medium.com/@tigranbs/concurrency-vs-event-loop-vs-event-loop-concurrency-eb542ad4067b)
 * [10 Typical Mistakes in Specs](https://www.yegor256.com/2015/11/10/ten-mistakes-in-specs.html)
 * [Designing for safety and security in a connected system](https://www.embedded.com/architectural-considerations-for-enabling-industrial-iot-devices/)
 * [Robert C Martin - Clean Architecture and Design](https://www.youtube.com/watch?v=Nsjsiz2A9mg)
+* [Building highly decoupled systems in Python (Ryan Easterbrook)](https://www.youtube.com/watch?v=3MEsh44XZDo)
 * [Rob Pike - 'Concurrency Is Not Parallelism'](https://www.youtube.com/watch?v=cN_DpYBzKso)
 * [Understanding a Real-Time System by Steven Rostedt](https://www.youtube.com/watch?v=wAX3jOHHhn0)
 
